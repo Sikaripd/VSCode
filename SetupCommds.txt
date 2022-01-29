@@ -8,7 +8,7 @@ $ history
     4  cd VSCodeWorkspace/
     5  git init
     6  git status
-    7  git config --global user.namer "Sikaripd"
+    7  git config --global user.name "Sikaripd"
 
     8  git add Index.html
    
