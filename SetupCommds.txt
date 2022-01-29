@@ -1,0 +1,20 @@
+
+praty@LAPTOP-JDE6SR87 MINGW64 ~/VSCodeWorkspace (master)
+$ history
+    1  git --version
+    2  git config --global user.email "pratyushdixit27@gmail.com"
+
+    3  mkdir VSCodeWorkspace
+    4  cd VSCodeWorkspace/
+    5  git init
+    6  git status
+    7  git config --global user.namer "Sikaripd"
+
+    8  git add Index.html
+   
+    9  git remote add origin https://github.com/Sikaripd/VSCode.git
+  
+    10  git commit -m "First Commit"
+
+     11  git push -u origin master
+ 12 Authrize from browser
